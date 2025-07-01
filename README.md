@@ -57,7 +57,7 @@ add_action('wp_enqueue_scripts', 'enqueue_sql_generator_assets');
 
 ## 🔗 Live Demo
 
-> Coming soon: `https://thehustl.shop/fivem-sql-generator/` (hosted on EasyWP)
+> https://thehustl.shop/fivem-sql-generator/ (hosted on EasyWP)
 
 ---
 
