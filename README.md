@@ -1,8 +1,8 @@
 # FiveM SQL Generator for WordPress
 
-As a FiveM server manager and developer, I got tired of writing SQL by hand every time I added a new job or restructured my job grades. This tool was built out of that frustration — to speed up development and reduce mistakes.
+As a FiveM server manager and developer, I got tired of writing SQL by hand every time I added a new job or restructured my job grades. This tool was built out of that frustration, to speed up development and reduce mistakes.
 
-I chose to build it as a custom WordPress page template so it could live inside my own dev site and portfolio. I styled the UI to match my vibe — dark, clean, and slightly edgy — while keeping it lightweight for in-game server devs who just want to get in and get out.
+I chose to build it as a custom WordPress page template so it could live inside my own dev site and portfolio. I styled the UI to match my vibe, dark, clean, and slightly edgy while keeping it lightweight for in-game server devs who just want to get in and get out.
 
 ---
 
@@ -81,7 +81,7 @@ add_action('wp_enqueue_scripts', 'enqueue_sql_generator_assets');
 
 ## 🙋🏾‍♀️ Why I Built It
 
-This started as a developer scratch-my-own-itch kind of tool. Then I realized — if I'm tired of typing SQL by hand, other FiveM devs probably are too. This version is the first public release, and it’s been tested live with server team members already.
+This started as a developer scratch-my-own-itch kind of tool. Then I realized; if I'm tired of typing SQL by hand, other FiveM devs probably are too. This version is the first public release, and it’s been tested live with server team members already.
 
 ---
 
